@@ -19,9 +19,8 @@ window.onload = function() {
     var messages = [
 	  sayHello(),
       'This is Aine - a friendly and supportive Technical Recruiter that always loves to match people with their right careers.',
-      'Thanks for reaching me out. I am so happy to share with you some vacancies we are having at Nimble.',
-      'Please check out <a target="_blank" href="https://jobs.nimblehq.co/">these JDs</a>',
-      'Curious for more details? Feel free to book a 15m discussion via: <a target="_blank" href="https://calendly.com/this-is-aine/15min">My Calendar</a> ',
+      'Thanks for reaching me out. I am so happy to share with you some vacancies we are having at 🔥Nimble🔥. Please check out our <a target="_blank" href="https://jobs.nimblehq.co/">Career page</a>.',
+      'Curious for more details? Feel free to book a 20m discussion via <a target="_blank" href="https://calendly.com/this-is-aine/15min">My Calendar</a> ',
       'Or simply shoot me a message on <a target="_blank" href="https://join.skype.com/invite/kxB2vfCvVSHY">skype</a> for instant support',
       'Thanks'
     ]
