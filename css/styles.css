@@ -15,6 +15,7 @@ body {
   min-height: 100vh;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   background: #FFF;
+  overflow-x:hidden;
 }
 
 .gradient-text {
