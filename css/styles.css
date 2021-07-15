@@ -29,7 +29,7 @@ background: -webkit-linear-gradient(#eee, #333);
   width: 100vw;
   max-height: 100vh;
   padding: 1rem .9rem;
-  font-size: 21px;
+  font-size: 25px;
 }
 .bubble {
   overflow: hidden;
@@ -81,5 +81,5 @@ background: -webkit-linear-gradient(#eee, #333);
 }
 .bubble .loading b {
   display: inline-block;
-  color: rgba(0,0,0,.5);
+  color: white;
 }
