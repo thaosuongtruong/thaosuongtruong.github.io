@@ -29,7 +29,7 @@ background: -webkit-linear-gradient(#eee, #333);
   width: 100vw;
   max-height: 100vh;
   padding: 1rem .9rem;
-  font-size: 19.5px;
+  font-size: 21px;
 }
 .bubble {
   overflow: hidden;
